@@ -83,4 +83,3 @@ npm run preview
 ---
 
 Designed and developed by Krish Yadav.
-| Set-Content -Encoding utf8 README.md

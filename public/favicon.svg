@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B1020" stroke="#171D36" stroke-width="2"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#171D36" fill-opacity="0.6"/>
+  <text x="32" y="42" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="25" font-weight="700" fill="#F1F4FA" text-anchor="middle" letter-spacing="1.5">KY</text>
+  <circle cx="50" cy="17" r="3" fill="#A9A7D9"/>
+</svg>

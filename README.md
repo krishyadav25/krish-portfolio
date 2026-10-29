@@ -1,5 +1,3 @@
-
-@'
 # Krish Yadav — Portfolio
 
 A personal portfolio website showcasing my projects, technical skills, and experience in Computer Science and Artificial Intelligence & Machine Learning.
@@ -85,4 +83,4 @@ npm run preview
 ---
 
 Designed and developed by Krish Yadav.
-'@ | Set-Content -Encoding utf8 README.md
+| Set-Content -Encoding utf8 README.md
